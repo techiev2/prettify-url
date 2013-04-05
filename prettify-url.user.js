@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Prettify-URL
 // @namespace     https://danielnr.com/2013/04/05/release-prettify-url/
-// @description   Removes the ugly from most URLs, making them easier to link to other people
+// @description   Removes the ugly from some URLs, making them easier to link to other people
 // @include       /https?://(www|encrypted)?\.?google\.com/(search|webhp).*/
 // @run-at document-start
 // @version       1.0
